@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+    margin: 3%;
+}
+
+#text1 {
+    font-size: larger;
+    border-bottom: 1px solid gray;
+}
+
+#formStud{
+    margin: 1%;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+#filterBtns{
+text-align: center;
+margin-right: 10px;
+}
+#studentBtnGroup{
+    text-align: center;
+}
+.col-form-label {
+    margin-left: auto;
+    padding: 0;
+}
+
+
+.card-group{
+    text-align: center;
+    margin: auto;
+    margin-left: 35%;
+}
+
+.card-group1{
+    border: 1px solid black;
+    padding: 10%;
+    margin-right: 30px;
+}
+.card-group2{
+    border: 1px solid black;
+    padding: 10%;
+}
+
+#cardGroup {
+    border: 2px solid black;
+    margin-right: 20px;
+    margin: 10px;
+    text-align: center;
+}
