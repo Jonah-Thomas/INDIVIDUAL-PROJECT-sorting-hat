@@ -2,9 +2,7 @@
     text-align: center;
     margin: 3%;
 }
-#newStudent {
-    margin-bottom: 5px;
-}
+
 #text1 {
     font-size: larger;
     border-bottom: 1px solid gray;
@@ -15,31 +13,24 @@
     text-align: center;
     border-bottom: 1px solid grey;
 }
-.removeButton {
- display:none;
-}
+
 #filterBtns{
 text-align: center;
 margin-right: 10px;
 }
 #studentBtnGroup{
     text-align: center;
-    margin-bottom: 10px;
 }
 .col-form-label {
     margin-left: auto;
     padding: 0;
 }
 
-#studentPhoto {
-    margin-left: 8px;
-    margin-top: 12px;
-}
 
 .card-group{
     text-align: center;
     margin: auto;
-    margin-left: 20%;
+    margin-left: 35%;
 }
 
 .card-group1{
@@ -57,14 +48,4 @@ margin-right: 10px;
     margin-right: 20px;
     margin: 10px;
     text-align: center;
-}
-
-#studentPhoto {
-    margin-top: 25px;
-}
-#name {
-    margin-bottom: 12px;
-}
-#cNS {
-    margin-top: 10px;
 }
